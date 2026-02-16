@@ -1,4 +1,3 @@
-from server import mcp
 import subprocess
 from typing import Any, Dict, List
 
